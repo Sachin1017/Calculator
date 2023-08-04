@@ -9,7 +9,7 @@ import {
   TouchableOpacity,
 } from 'react-native';
 import React, {useState} from 'react';
-import {clacFields} from './assets/calcFields';
+import {clacFields} from './fields/calcFields';
 
 const width = Dimensions.get('screen').width;
 
