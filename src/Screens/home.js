@@ -1,13 +1,6 @@
 /* eslint-disable no-fallthrough */
 /* eslint-disable react-native/no-inline-styles */
-import {
-  View,
-  Text,
-  FlatList,
-  ScrollView,
-  Dimensions,
-  TouchableOpacity,
-} from 'react-native';
+import {View, Text, FlatList, Dimensions, TouchableOpacity} from 'react-native';
 import React, {useState} from 'react';
 import {clacFields} from './fields/calcFields';
 
